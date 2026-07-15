@@ -1,6 +1,6 @@
-VERSION        :0
-VERSION_STRING :0
-TITLE          :OpenTGVnml 0
-FILENAME       :OpenTGVnml.grf
+VERSION        :noRev
+VERSION_STRING :noRev
+TITLE          :2cc Trains In NML noRev
+FILENAME       :2ccts.grf
 REPO_HASH      :
 NEWGRF_VERSION :0
