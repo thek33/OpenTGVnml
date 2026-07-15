@@ -1,0 +1,6 @@
+VERSION        :0
+VERSION_STRING :0
+TITLE          :OpenTGVnml 0
+FILENAME       :OpenTGVnml.grf
+REPO_HASH      :
+NEWGRF_VERSION :0

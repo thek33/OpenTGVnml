@@ -1,0 +1,15 @@
+# Build artifacts
+*.nml
+*.grf
+
+# nmlcache
+.nmlcache/
+
+# Preprocessed temp files
+preprocess.py
+create_tgv_sud_est.py
+TGV_Sud_Est_powercar_32x12.png
+
+# OS files
+Thumbs.db
+Desktop.ini
